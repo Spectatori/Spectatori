@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my CV Project.
+- 🌱 I’m currently learning SQLite.
+- 👯 I’m looking to collaborate on any projects because learning new stuff is cool haha.
+- 📫 How to reach me:https://www.instagram.com/chalgar.chalgarov/.
+- 😄 I haven't eaten sushi in my entire life.
 <!--
 **Spectatori/Spectatori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
