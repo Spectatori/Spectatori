@@ -9,8 +9,8 @@ I'm currently a student in Technical University of Sofia learning Computer Scien
 *   🌍  I'm based in Sofia, BG
 *   ✉️  You can contact me at [cavdar2002@gmail.com](mailto:cavdar2002@gmail.com)
 *   🧠  I'm learning SQLite
-*   🤝  I'm open to collaborating on Chatter
-*   ⚡  I haven't eaten sushi my entire life
+*   🤝  I'm open to collaborating on anything
+*   ⚡  I haven't eaten sushi my entire life
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
