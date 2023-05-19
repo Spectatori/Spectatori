@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chavdar Chavdarov
 =========================================================================================================================================
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Spectatori&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-*   .NET Developer
+.NET Developer
 -------------
 
 I'm currently a student in Technical University of Sofia learning Computer Science and I have 2 years of non-work experience with C# because I like back-end developing and making things work automatically.
