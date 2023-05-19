@@ -30,4 +30,4 @@ I'm currently a student in Technical University of Sofia learning Computer Scien
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Spectatori&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spectatori &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spectatori&theme=radical)
