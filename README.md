@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm currently a student in Technical University of Sofia learning Computer Science and I have 2 years of non-work experience with C# because I like back-end developing and making things work automatically.
 
-*   🌍  I'm based in Sofia, BG
-*   ✉️  You can contact me at [cavdar2002@gmail.com](mailto:cavdar2002@gmail.com)
-*   🧠  I'm learning SQLite
-*   🤝  I'm open to collaborating on anything
-*   ⚡  I haven't eaten sushi my entire life
+*   🌍  I'm based in Sofia, BG.
+*   ✉️  You can contact me at [cavdar2002@gmail.com](mailto:cavdar2002@gmail.com).
+*   🧠  I'm learning Angular.
+*   🤝  I'm open to collaborating on anything.
+*   ⚡  I haven't eaten sushi my entire life.
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
