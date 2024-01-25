@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chavdar Chavdarov
 =========================================================================================================================================
-.NET Developer
--------------
 
-I'm currently a student in Technical University of Sofia learning Computer Science and I have 2 years of non-work experience with C# because I like back-end developing and making things work automatically.
+I'm currently a student in Technical University of Sofia learning Computer Science!
 
 *   🌍  I'm based in Sofia, BG.
 *   ✉️  You can contact me at [cavdar2002@gmail.com](mailto:cavdar2002@gmail.com).
