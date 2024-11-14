@@ -5,7 +5,7 @@ I'm currently a student in Technical University of Sofia learning Computer Scien
 
 *   🌍  I'm based in Sofia, BG.
 *   ✉️  You can contact me at [cavdar2002@gmail.com](mailto:cavdar2002@gmail.com).
-*   🧠  I'm learning Angular.
+*   🧠  I'm learning Nuxt right now.
 *   🤝  I'm open to collaborating on anything.
 *   ⚡  I haven't eaten sushi my entire life.
 # 💻 Tech Stack:
